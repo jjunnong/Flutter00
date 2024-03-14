@@ -28,8 +28,11 @@ class MyApp extends StatelessWidget {
         ),
 
         // Body
-        body: Center(
-          child: Text('body 입니다!'),
+        body: Container(
+          color: Colors.yellow,
+          child: Center(
+            child: Text('body 입니다!'),
+          ),
         ),
 
         // BottomNavigationBar
