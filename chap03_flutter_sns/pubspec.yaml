@@ -1,4 +1,4 @@
-name: chap01_flutter_basic
+name: chap03_flutter_sns
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -35,8 +35,6 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
-  flutter_svg: ^0.22.0 #it helps us to use SVG
-
 
 dev_dependencies:
   flutter_test:
@@ -61,13 +59,9 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-    #파일 하나만 지정해서 등록
-    - asset/image/minions.jpg
-    #파일 전체 등록
-    - asset/image/
-    - asset/icons/
-
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
