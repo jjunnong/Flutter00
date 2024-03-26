@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640150403342",
+    "project_id": "jjunnong-7eace",
+    "storage_bucket": "jjunnong-7eace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640150403342:android:eda07cb9fbf97d0bf2bf5f",
+        "android_client_info": {
+          "package_name": "com.ohgiraffers.chap08_flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy5xyW1wu4vBQuTL0bD6DzKGeXqsQaS6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
